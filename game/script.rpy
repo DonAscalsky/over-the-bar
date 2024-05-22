@@ -1,10 +1,10 @@
-﻿# The script of the game goes in this file.
+# The script of the game goes in this file.
 
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
-
+define nnn = Character([placeholder])
+define dev = Character("Devon")
 
 # The game starts here.
 
