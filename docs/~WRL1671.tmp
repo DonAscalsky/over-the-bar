@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Gabby Bernardo</o:Author>
   <o:LastAuthor>Gabby Bernardo</o:LastAuthor>
-  <o:Revision>26</o:Revision>
+  <o:Revision>19</o:Revision>
   <o:TotalTime>0</o:TotalTime>
   <o:Created>2024-10-01T14:02:00Z</o:Created>
-  <o:LastSaved>2024-10-02T09:55:00Z</o:LastSaved>
+  <o:LastSaved>2024-10-02T08:24:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>192</o:Words>
-  <o:Characters>1214</o:Characters>
-  <o:Lines>10</o:Lines>
-  <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1404</o:CharactersWithSpaces>
+  <o:Words>9</o:Words>
+  <o:Characters>60</o:Characters>
+  <o:Lines>1</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>68</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -669,6 +669,12 @@ xmlns="http://www.w3.org/TR/REC-html40">
 	mso-font-pitch:variable;
 	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
+	{font-family:"Aptos Display";
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+@font-face
 	{font-family:Aptos;
 	mso-font-charset:0;
 	mso-generic-font-family:swiss;
@@ -1099,7 +1105,8 @@ p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 a:link, span.MsoHyperlink
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#467886;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -1672,99 +1679,39 @@ word-wrap:break-word'>
 
 <div class=WordSection1>
 
-<table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width="100%"
- style='width:100.0%;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width="100%" valign=top style='width:100.0%;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt'>
+  <td width="100%" valign=top style='width:100.0%;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoTitle align=center style='text-align:center'><span lang=EN-GB
-  style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'>Worldbuilding
-  Bible<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'><a href="index.htm">Home</a> | Stories
-  | <a href="char.htm">Characters</a> | World | Institutions<o:p></o:p></span></p>
+  style='mso-ansi-language:EN-GB'>Over the Bar<o:p></o:p></span></p>
+  <p class=MsoNormal align=center style='text-align:center'><span lang=EN-GB
+  style='mso-ansi-language:EN-GB'>Home | Script | Characters | World |
+  Institutions<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width="100%" valign=top style='width:100.0%;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt'>
-  <h1 style='margin-left:70.8pt'><span lang=EN-GB style='font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'>Over the Bar<o:p></o:p></span></h1>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Lorem ipsum
-  dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
-  massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada
-  libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Nunc viverra
-  imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Pellentesque
-  habitant morbi tristique senectus et netus et malesuada fames ac turpis
-  egestas. Proin pharetra nonummy pede. Mauris et orci.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Aenean nec
-  lorem. In porttitor. Donec laoreet nonummy augue.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Suspendisse dui
-  purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget
-  neque at sem venenatis eleifend. Ut nonummy.<o:p></o:p></span></p>
-  <h1 style='margin-left:70.8pt'><span lang=EN-GB style='font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'>Giants in the Playground<o:p></o:p></span></h1>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Lorem ipsum
-  dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
-  massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada
-  libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Nunc viverra
-  imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Pellentesque
-  habitant morbi tristique senectus et netus et malesuada fames ac turpis
-  egestas. Proin pharetra nonummy pede. Mauris et orci.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Aenean nec
-  lorem. In porttitor. Donec laoreet nonummy augue.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Suspendisse dui
-  purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget
-  neque at sem venenatis eleifend. Ut nonummy.</span><span lang=EN-GB
-  style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+  <td width="100%" valign=top style='width:100.0%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-right:67.8pt;text-align:justify;line-height:
+  115%'><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
-  <td width="100%" valign=top style='width:100.0%;border:none;mso-border-top-alt:
-  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'>All Rights Reserved ® Don
-  Ascalsky<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'>2024.10.02<o:p></o:p></span></p>
+  <td width="100%" valign=top style='width:100.0%;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-right:67.8pt;text-align:justify;line-height:
+  115%'><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal style='line-height:150%'><span lang=EN-GB style='mso-bidi-font-size:
-12.0pt;line-height:150%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal style='margin-right:67.8pt;text-align:justify;line-height:
+115%'><span lang=EN-GB style='mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 

@@ -9,34 +9,42 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="index_files/filelist.xml">
+<link rel=File-List href="prince_devon_files/filelist.xml">
+<link rel=Edit-Time-Data href="prince_devon_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Prince Devon | Worldbuilding Bible</title>
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Gabby Bernardo</o:Author>
   <o:LastAuthor>Gabby Bernardo</o:LastAuthor>
-  <o:Revision>26</o:Revision>
+  <o:Revision>2</o:Revision>
   <o:TotalTime>0</o:TotalTime>
-  <o:Created>2024-10-01T14:02:00Z</o:Created>
-  <o:LastSaved>2024-10-02T09:55:00Z</o:LastSaved>
+  <o:Created>2024-10-02T02:41:00Z</o:Created>
+  <o:LastSaved>2024-10-02T02:41:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>192</o:Words>
-  <o:Characters>1214</o:Characters>
-  <o:Lines>10</o:Lines>
-  <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1404</o:CharactersWithSpaces>
+  <o:Words>460</o:Words>
+  <o:Characters>2901</o:Characters>
+  <o:Lines>24</o:Lines>
+  <o:Paragraphs>6</o:Paragraphs>
+  <o:CharactersWithSpaces>3355</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="index_files/themedata.thmx">
-<link rel=colorSchemeMapping href="index_files/colorschememapping.xml">
+<link rel=themeData href="prince_devon_files/themedata.thmx">
+<link rel=colorSchemeMapping href="prince_devon_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>90</w:Zoom>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -62,9 +70,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   </w:Compatibility>
   <w:DocumentVariables>
    <w:__Grammarly_42____i>H4sIAAAAAAAEAKtWckksSQxILCpxzi/NK1GyMqwFAAEhoTITAAAA</w:__Grammarly_42____i>
-   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDY2NzIyM7E0MzE3MzQ3MDNQ0lEKTi0uzszPAykwqQUAgWEpcSwAAAA=</w:__Grammarly_42___1>
+   <w:__Grammarly_42___1>H4sIAAAAAAAEAKtWcslP9kxRslIyNDY2NzIyNzIxMzAyMDG3NDFT0lEKTi0uzszPAykwrQUABKQmPCwAAAA=</w:__Grammarly_42___1>
   </w:DocumentVariables>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -1099,7 +1106,8 @@ p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
 	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 a:link, span.MsoHyperlink
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#467886;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -1364,6 +1372,7 @@ span.Heading4Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 4";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1382,6 +1391,7 @@ span.Heading5Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 5";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1399,6 +1409,7 @@ span.Heading6Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 6";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1429,6 +1440,7 @@ span.Heading7Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 7";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1446,6 +1458,7 @@ span.Heading8Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 8";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1464,6 +1477,7 @@ span.Heading9Char
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Heading 9";
+	mso-ansi-font-size:12.0pt;
 	font-family:"Times New Roman",serif;
 	mso-ascii-font-family:"Times New Roman";
 	mso-fareast-font-family:"Times New Roman";
@@ -1518,6 +1532,7 @@ span.QuoteChar
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:Quote;
+	mso-ansi-font-size:12.0pt;
 	color:#404040;
 	mso-themecolor:text1;
 	mso-themetint:191;
@@ -1528,6 +1543,7 @@ span.IntenseQuoteChar
 	mso-style-unhide:no;
 	mso-style-locked:yes;
 	mso-style-link:"Intense Quote";
+	mso-ansi-font-size:12.0pt;
 	color:#0F4761;
 	mso-themecolor:accent1;
 	mso-themeshade:191;
@@ -1651,12 +1667,13 @@ table.MsoTableGrid
 	mso-border-insidev:.5pt solid windowtext;
 	mso-para-margin:0cm;
 	mso-pagination:widow-orphan;
-	font-size:10.0pt;
+	font-size:11.0pt;
 	font-family:"Aptos",sans-serif;
 	mso-ascii-font-family:Aptos;
 	mso-ascii-theme-font:minor-latin;
 	mso-hansi-font-family:Aptos;
 	mso-hansi-theme-font:minor-latin;
+	mso-ligatures:standardcontextual;
 	mso-fareast-language:EN-US;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
@@ -1674,97 +1691,663 @@ word-wrap:break-word'>
 
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0 width="100%"
  style='width:100.0%;border-collapse:collapse;border:none;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width="100%" valign=top style='width:100.0%;border:none;border-bottom:
   solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoTitle align=center style='text-align:center'><span lang=EN-GB
-  style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'>Worldbuilding
-  Bible<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'><a href="index.htm">Home</a> | Stories
-  | <a href="char.htm">Characters</a> | World | Institutions<o:p></o:p></span></p>
+  <p class=MsoTitle align=center style='text-align:center'><a
+  name="_Hlk178719766"><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB'>Worldbuilding Bible<o:p></o:p></span></a></p>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='mso-bookmark:_Hlk178719766'></span><a href="index.htm"><span
+  style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB'>Home</span></span><span style='mso-bookmark:_Hlk178719766'></span></a><span
+  style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB'> | Script | </span></span><a href="char.htm"><span
+  style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB'>Characters</span></span><span style='mso-bookmark:
+  _Hlk178719766'></span></a><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'> |
+  World | Institutions<o:p></o:p></span></span></p>
   </td>
+  <span style='mso-bookmark:_Hlk178719766'></span>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width="100%" valign=top style='width:100.0%;border:none;border-bottom:
-  solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:
-  solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;padding:
-  0cm 5.4pt 0cm 5.4pt'>
-  <h1 style='margin-left:70.8pt'><span lang=EN-GB style='font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'>Over the Bar<o:p></o:p></span></h1>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Lorem ipsum
-  dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
-  massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada
-  libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Nunc viverra
-  imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Pellentesque
-  habitant morbi tristique senectus et netus et malesuada fames ac turpis
-  egestas. Proin pharetra nonummy pede. Mauris et orci.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Aenean nec
-  lorem. In porttitor. Donec laoreet nonummy augue.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Suspendisse dui
-  purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget
-  neque at sem venenatis eleifend. Ut nonummy.<o:p></o:p></span></p>
-  <h1 style='margin-left:70.8pt'><span lang=EN-GB style='font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'>Giants in the Playground<o:p></o:p></span></h1>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Lorem ipsum
-  dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue
-  massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada
-  libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Nunc viverra
-  imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Pellentesque
-  habitant morbi tristique senectus et netus et malesuada fames ac turpis
-  egestas. Proin pharetra nonummy pede. Mauris et orci.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Aenean nec
-  lorem. In porttitor. Donec laoreet nonummy augue.<o:p></o:p></span></p>
-  <p class=MsoNormal style='margin-left:70.8pt;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB;mso-no-proof:yes'>Suspendisse dui
-  purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget
-  neque at sem venenatis eleifend. Ut nonummy.</span><span lang=EN-GB
-  style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:"Arial",sans-serif;
-  mso-ansi-language:EN-GB'><o:p></o:p></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
   <td width="100%" valign=top style='width:100.0%;border:none;mso-border-top-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'>All Rights Reserved ® Don
-  Ascalsky<o:p></o:p></span></p>
-  <p class=MsoNormal align=center style='text-align:center;line-height:150%'><span
-  lang=EN-GB style='mso-bidi-font-size:12.0pt;line-height:150%;font-family:
-  "Arial",sans-serif;mso-ansi-language:EN-GB'>2024.10.02<o:p></o:p></span></p>
+  <div style='mso-element:para-border-div;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 1.0pt 0cm;
+  margin-left:70.8pt;margin-right:0cm'>
+  <h1 style='line-height:115%;border:none;mso-border-bottom-alt:solid windowtext .5pt;
+  padding:0cm;mso-padding-alt:0cm 0cm 1.0pt 0cm'><span style='mso-bookmark:
+  _Hlk178719766'><span lang=FR style='font-family:"Arial",sans-serif;
+  mso-ansi-language:FR;mso-no-proof:yes'>Prince Devon Alfonso of Draconia<o:p></o:p></span></span></h1>
+  </div>
+  <table class=MsoTableGrid border=1 cellspacing=5 cellpadding=0 align=right
+   width=397 style='width:297.7pt;mso-cellspacing:2.8pt;background:#F2F2F2;
+   mso-background-themecolor:background1;mso-background-themeshade:242;
+   border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
+   mso-table-overlap:never;mso-yfti-tbllook:1184;mso-table-lspace:7.1pt;
+   margin-left:4.85pt;mso-table-rspace:14.2pt;margin-right:11.95pt;mso-table-tspace:
+   13.3pt;margin-top:11.05pt;mso-table-bspace:7.1pt;margin-bottom:4.85pt;
+   mso-table-anchor-vertical:paragraph;mso-table-anchor-horizontal:column;
+   mso-table-left:right;mso-table-top:.05pt;mso-padding-alt:0cm 5.4pt 2.85pt 5.4pt;
+   mso-border-insideh:none;mso-border-insidev:none'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    background:#A5C9EB;mso-background-themecolor:text2;mso-background-themetint:
+    64;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><b><span
+    lang=EN-GB style='font-size:14.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Prince Devon</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'></span><span style='mso-bookmark:_Hlk178719766'><b><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><i><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Prince of
+    Draconia</span></i></span><span style='mso-bookmark:_Hlk178719766'><i><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></i></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+    style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
+     id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+     path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+     <v:stroke joinstyle="miter"/>
+     <v:formulas>
+      <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+      <v:f eqn="sum @0 1 0"/>
+      <v:f eqn="sum 0 0 @1"/>
+      <v:f eqn="prod @2 1 2"/>
+      <v:f eqn="prod @3 21600 pixelWidth"/>
+      <v:f eqn="prod @3 21600 pixelHeight"/>
+      <v:f eqn="sum @0 0 1"/>
+      <v:f eqn="prod @6 1 2"/>
+      <v:f eqn="prod @7 21600 pixelWidth"/>
+      <v:f eqn="sum @8 21600 0"/>
+      <v:f eqn="prod @7 21600 pixelHeight"/>
+      <v:f eqn="sum @10 21600 0"/>
+     </v:formulas>
+     <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+     <o:lock v:ext="edit" aspectratio="t"/>
+    </v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+     alt="Bild" style='width:212.4pt;height:212.4pt;visibility:visible;
+     mso-wrap-style:square'>
+     <v:imagedata src="prince_devon_files/image001.jpg" o:title="Bild"/>
+    </v:shape><![endif]--><![if !vml]><img border=0 width=283 height=283
+    src="prince_devon_files/image002.jpg" alt=Bild v:shapes="Picture_x0020_1"><![endif]></span></span><span
+    style='mso-bookmark:_Hlk178719766'></span><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    background:#A5C9EB;mso-background-themecolor:text2;mso-background-themetint:
+    64;padding:0cm 5.4pt 2.85pt 5.4pt'><span style='mso-bookmark:_Hlk178719766'></span>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+    style='font-size:3.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-no-proof:yes'><o:p>&nbsp;</o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Born</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Prince Devon of Scalicia</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>12 June 2244 (aged 24)</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Charlottenburg Palace, Alexandrowsk,
+    Kingdom of Scalicia, Concordia</span></span><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:4.0pt;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Names</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:
+    0cm;margin-left:11.95pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Devon Alfonso
+    Leopold Christian Anton Ulric</span></span><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>House</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Baden-Niemalazar</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:7'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Father</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Ludwig V, II &amp; I</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:8'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Mother</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Charlotte of Dragarthal-Ifleet</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:9'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Religion</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Scalician Catholicism</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:10'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Education</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Xavier Ateneo de Alexandrowsk</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Kriegsakademie Soldatenfeld</span></span><span
+    style='mso-bookmark:_Hlk178719766'><i><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></i></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:11'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    background:#A5C9EB;mso-background-themecolor:text2;mso-background-themetint:
+    64;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><b><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Military
+    Career</span></b></span><span style='mso-bookmark:_Hlk178719766'><b><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    mso-ansi-language:EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:12'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>2265 – <i>present</i></span></span><span
+    style='mso-bookmark:_Hlk178719766'><i><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></i></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:13'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Allegiance</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Union of Nations</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:14'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Service/Branch</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Raumsmarine</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:15'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Rank</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Oberfeldwebel</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:16'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Unit</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SMS Carl von Clausewitz</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SMS Königin Luise</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:17'>
+    <td width=389 colspan=2 valign=top style='width:292.1pt;border:none;
+    padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal align=center style='margin-bottom:0cm;text-align:center;
+    line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+    lang=EN-GB style='font-size:11.0pt;line-height:115%;font-family:"Arial",sans-serif;
+    color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB'>2263 – 2265</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:18'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Allegiance</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Union of Nations (Kingdom of Scalicia)</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:19'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Service/Branch</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Königsmarine</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:20'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Rank</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>Stabsfeldwebel… (more)</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+   <tr style='mso-yfti-irow:21;mso-yfti-lastrow:yes'>
+    <td width=136 valign=top style='width:101.85pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;color:black;
+    mso-color-alt:windowtext;mso-ansi-language:EN-GB'>Unit</span></b></span><span
+    style='mso-bookmark:_Hlk178719766'><b><span lang=EN-GB style='font-size:
+    11.0pt;line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:
+    EN-GB'><o:p></o:p></span></b></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+    <td width=250 valign=top style='width:187.45pt;border:none;padding:0cm 5.4pt 2.85pt 5.4pt'>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SM U-233</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SM U-213</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SMS Bundesrepublik</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    <p class=MsoNormal style='margin-bottom:0cm;line-height:115%'><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;color:black;mso-color-alt:
+    windowtext;mso-ansi-language:EN-GB'>SMS Freiheit</span></span><span
+    style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-size:11.0pt;
+    line-height:115%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+    </td>
+    <span style='mso-bookmark:_Hlk178719766'></span>
+   </tr>
+  </table>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas
+  porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus
+  lectus malesuada libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Pellentesque habitant morbi tristique senectus et netus et
+  malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et
+  orci.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Aenean nec lorem. In porttitor. Donec laoreet nonummy
+  augue.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Suspendisse dui purus, scelerisque at, vulputate vitae,
+  pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut
+  nonummy.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+  Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+  purus lectus malesuada libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Pellentesque habitant morbi tristique senectus et netus et
+  malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et
+  orci.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Aenean nec lorem. In porttitor. Donec laoreet nonummy
+  augue.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Suspendisse dui purus, scelerisque at, vulputate vitae,
+  pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut
+  nonummy.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+  Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+  purus lectus malesuada libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Pellentesque habitant morbi tristique senectus et netus et
+  malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et
+  orci.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Aenean nec lorem. In porttitor. Donec laoreet nonummy
+  augue.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Suspendisse dui purus, scelerisque at, vulputate vitae,
+  pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut
+  nonummy.<o:p></o:p></span></span></p>
+  <h2 style='margin-left:70.8pt;line-height:115%'><span style='mso-bookmark:
+  _Hlk178719766'><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB;mso-no-proof:yes'>Early Life and Education<o:p></o:p></span></span></h2>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+  Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies,
+  purus lectus malesuada libero, sit amet commodo magna eros quis urna.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Pellentesque habitant morbi tristique senectus et netus et
+  malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et
+  orci.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Aenean nec lorem. In porttitor. Donec laoreet nonummy
+  augue.<o:p></o:p></span></span></p>
+  <p class=MsoNormal style='margin-top:8.0pt;margin-right:67.75pt;margin-bottom:
+  8.0pt;margin-left:70.9pt;line-height:115%'><span style='mso-bookmark:_Hlk178719766'><span
+  lang=EN-GB style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB;
+  mso-no-proof:yes'>Suspendisse dui purus, scelerisque at, vulputate vitae,
+  pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut
+  nonummy.<o:p></o:p></span></span></p>
+  <span style='mso-bookmark:_Hlk178719766'></span>
+  <p class=MsoNormal><span style='mso-bookmark:_Hlk178719766'><span lang=EN-GB
+  style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></span></p>
   </td>
+  <span style='mso-bookmark:_Hlk178719766'></span>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
+  <td width="100%" valign=top style='width:100.0%;padding:0cm 5.4pt 0cm 5.4pt'>
+  <div style='mso-element:para-border-div;border:none;border-top:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;padding:1.0pt 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:115%;
+  border:none;mso-border-top-alt:solid windowtext .5pt;padding:0cm;mso-padding-alt:
+  1.0pt 0cm 0cm 0cm'><span style='mso-bookmark:_Hlk178719766'><span lang=EN-GB
+  style='font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'>All Rights
+  Reserved ® Don Ascalsky<o:p></o:p></span></span></p>
+  </div>
+  <p class=MsoNormal align=center style='text-align:center;line-height:115%'><span
+  style='mso-bookmark:_Hlk178719766'><span lang=EN-GB style='font-family:"Arial",sans-serif;
+  mso-ansi-language:EN-GB'>2024.10.02<o:p></o:p></span></span></p>
+  </td>
+  <span style='mso-bookmark:_Hlk178719766'></span>
  </tr>
 </table>
 
-<p class=MsoNormal style='line-height:150%'><span lang=EN-GB style='mso-bidi-font-size:
-12.0pt;line-height:150%;font-family:"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+<span style='mso-bookmark:_Hlk178719766'></span>
+
+<p class=MsoNormal style='line-height:115%'><span lang=EN-GB style='font-family:
+"Arial",sans-serif;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
